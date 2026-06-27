@@ -26,7 +26,7 @@ house_price_fullstack/
 
 ---
 
-## 🚀 Deploy Backend → Render.com (100% FREE, No Credit Card)
+## 🚀 Deploy Backend → Render.com 
 
 ### Step-by-step:
 
@@ -35,7 +35,7 @@ house_price_fullstack/
    - Copy all files from the `backend/` folder into it
    - Push to main branch
 
-2. **Sign up at [render.com](https://render.com)** (use your GitHub account — no credit card needed)
+2. **Sign up at [render.com](https://render.com)** 
 
 3. **Create a Web Service**
    - Dashboard → **New → Web Service**

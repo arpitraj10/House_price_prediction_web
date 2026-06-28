@@ -53,7 +53,7 @@ house_price_fullstack/
 
 5. Click **Create Web Service** → wait 2–3 min for first build
 
-6. Your API is live at: `https://house-price-api.onrender.com`
+6. Your API is live at: ` https://house-price-api-4zen.onrender.com`
    Copy this URL — you'll need it for the frontend.
 
 > ⚠️ **Free tier note:** The app sleeps after 15 min of inactivity. The first request after sleep takes ~60 seconds to wake up. Subsequent requests are instant. This is normal and fine for a portfolio project.
@@ -70,7 +70,7 @@ house_price_fullstack/
 
 4. Add **Environment Variable:**
    - Key: `REACT_APP_API_URL`
-   - Value: `https://house-price-api.onrender.com` *(your Render URL)*
+   - Value: ` https://house-price-api-4zen.onrender.com` *(your Render URL)*
 
 5. Click **Deploy** — done! ✅
 
@@ -149,3 +149,7 @@ python train_model.py
 | Vercel 404 on refresh | `vercel.json` SPA rewrites |
 | Hardcoded API URL | `REACT_APP_API_URL` env variable |
 | Model file missing on server | Pre-trained `.pkl` committed to repo |
+
+
+# Main website URL
+URL : https://house-price-prediction-web-nbyu.vercel.app/

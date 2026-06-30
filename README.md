@@ -70,7 +70,7 @@ house_price_fullstack/
 
 4. Add **Environment Variable:**
    - Key: `REACT_APP_API_URL`
-   - Value: ` https://house-price-api-4zen.onrender.com` *(your Render URL)*
+   - Value:  *(your Render URL)*
 
 5. Click **Deploy** — done! ✅
 

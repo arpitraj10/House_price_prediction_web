@@ -53,7 +53,7 @@ house_price_fullstack/
 
 5. Click **Create Web Service** → wait 2–3 min for first build
 
-6. Your API is live at: ` https://house-price-api-4zen.onrender.com`
+6. Your API is live at: `  https://house-price-prediction-web-cv5q.onrender.com`
    Copy this URL — you'll need it for the frontend.
 
 > ⚠️ **Free tier note:** The app sleeps after 15 min of inactivity. The first request after sleep takes ~60 seconds to wake up. Subsequent requests are instant. This is normal and fine for a portfolio project.

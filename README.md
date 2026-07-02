@@ -152,4 +152,4 @@ python train_model.py
 
 
 # Main website URL
-URL : https://house-price-prediction-web-nbyu.vercel.app/
+URL : https://house-price-prediction-web-2qzt.vercel.app/
